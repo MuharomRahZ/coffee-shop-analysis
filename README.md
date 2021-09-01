@@ -6,3 +6,4 @@ The objectives to be achieved are:
 2. Sales Transaction
 3. Product Recommendation
 4. Inventory Optimalization
+
